@@ -6,7 +6,7 @@ public class Main {
     }
 
     private static void task1() {
-        System.out.println("Задача 1");
+        System.out.println("Задача № 1");
        String firstName="Ivan";
        String middleName="Ivanovich";
        String lastName="Ivanov";
@@ -15,7 +15,7 @@ public class Main {
     }
 
     private static void task2() {
-        System.out.println("Задача 2");
+        System.out.println("Задача № 2");
         String firstName="Ivan";
         String middleName="Ivanovich";
         String lastName="Ivanov";
@@ -25,7 +25,7 @@ public class Main {
     }
 
     private static void task3() {
-        System.out.println("Задача 3");
+        System.out.println("Задача № 3");
         String fullName = "Иванов Семён Семёнович";
         String fullNameTrue= fullName.replace("ё", "е");
         System.out.println("Данные ФИО сотрудника — "+fullNameTrue);
